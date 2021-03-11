@@ -59,6 +59,8 @@ if __name__ == '__main__':
     connect(SF, DC, 5)
 
     print(dijsktra_pq(TO))
+    print("hahahahhahahahahha")
+    print("python")
 #
 # def f():
 #     pass
